@@ -1,3 +1,14 @@
+pruaba React I
+
+Aplicacio usando Una Api
+
+* recoger infomacion de la api
+* recorrere y mostrar informacion en pantalla con distintos componentes
+*  Usar un buscador para buscar algun elemento de busqueda
+*  crear un video para explicar como funcion la aplicacion y luego explicar el codigo
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
