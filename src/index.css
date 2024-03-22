@@ -1,13 +1,14 @@
 /*Configutacion Header */
 .navbar {
   background: red;
-}
-.titulo {
-  padding-left: 40px;
+  padding: 10px;
 }
 
-img {
+.titulo {
+  padding-left: 40px;
+  background-color: white;
 }
+
 /*Configuracion Footer*/
 footer {
   padding: 10px;
@@ -22,10 +23,26 @@ footer a {
 .padre {
   display: flex;
   flex-direction: column;
+  background-color: white;
 }
 .iconos {
   display: flex;
   justify-content: center;
   flex-direction: row;
   align-items: center;
+}
+
+.card-img {
+  height: 60%;
+  width: 60%;
+  object-fit: cover;
+  padding-top: 15px;
+}
+
+.card {
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid red;
 }
