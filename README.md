@@ -7,6 +7,7 @@ Aplicacio usando Una Api
 *  Usar un buscador para filtrar algun elemento de la Api y que lo muestre en panmtalla
 *  crear un video para explicar como funcion la aplicacion y luego explicar el codigo
 *  link video : https://youtu.be/ABV3FdzFaeM
+*  se usa React Boostrap y react icon para diseño 
 
 
 
