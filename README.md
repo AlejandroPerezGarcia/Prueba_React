@@ -2,10 +2,11 @@ pruaba React I
 
 Aplicacio usando Una Api
 
-* recoger infomacion de la api
+* recoger infomacion de la api : https://www.amiiboapi.com/
 * recorrer y mostrar informacion en pantalla con distintos componentes
 *  Usar un buscador para filtrar algun elemento de la Api y que lo muestre en panmtalla
 *  crear un video para explicar como funcion la aplicacion y luego explicar el codigo
+*  link video : https://youtu.be/ABV3FdzFaeM
 
 
 
